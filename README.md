@@ -7,3 +7,5 @@ I'm currently in formation to become web developer at Onlineformapro.
 <h2>I for the moment work with these languages :</h2>
 
 ![languages](https://github.com/jojomumu/jojomumu/blob/main/img/languages.png)
+
+<h2>I'm planning on learning :</h2>
