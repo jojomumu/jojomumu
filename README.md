@@ -1,6 +1,6 @@
 ![Cover](https://github.com/jojomumu/jojomumu/blob/main/img/cover.png)
 
-<h1> &#128049 Hi there my name is Jonathan Robert pleased to see you here.👋</h1>
+<h1> &#128049 Hi there my name is Jonathan Robert pleased to see you here👋</h1>
 
 I'm currently in formation to become web developer at Onlineformapro.
 
