@@ -9,3 +9,5 @@ I'm currently in formation to become web developer at Onlineformapro.
 ![languages](https://github.com/jojomumu/jojomumu/blob/main/img/languages.png)
 
 <h2>I'm planning on learning :</h2>
+
+![outils](https://github.com/jojomumu/jojomumu/blob/main/img/outils.png)
