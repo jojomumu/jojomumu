@@ -1,4 +1,4 @@
-![Cover](https://github.com/jojomumu/jojomumu/blob/main/img/cover.png)
+![Cover2](https://github.com/jojomumu/jojomumu/blob/main/img/cover2.png)
 
 <h1> &#128049 Hi there my name is Jonathan Robert pleased to see you here</h1>
 
