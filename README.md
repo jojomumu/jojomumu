@@ -1,3 +1,5 @@
+![Cover](https://github.com/jojomumu/jojomumu/main/cover github.png)
+
 <h1>Hi there my name is Jonathan Robert pleased to see you here. 👋</h1>
 
 I'm currently in formation to become web developer at Onlineformapro.
